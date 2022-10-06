@@ -1,7 +1,6 @@
 import hypothesis.strategies as st
 import pytest
 from hypothesis import given
-
 from my_package.calc import square
 
 

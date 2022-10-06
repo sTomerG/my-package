@@ -13,6 +13,7 @@ python = "^3.10"
 [tool.poetry.group.dev.dependencies]
 black = "^22.8.0"
 isort = "^5.10.1"
+pre-commit = "^2.20.0"
 
 
 
@@ -40,7 +41,7 @@ exclude = '''
 
 [tool.isort]
 profile = "black"
-known_third_party = []
+known_third_party = ["hypothesis", "my_package", "pytest"]
 
 [build-system]
 requires = ["poetry-core"]
