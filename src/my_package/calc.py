@@ -4,6 +4,7 @@ from typing import Union
 
 def square(x: Union[int, float]) -> Union[int, float]:
     """Returns the square of input x.
+
     Parameters
     ----------
     x : Union[int, float]
