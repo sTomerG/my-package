@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "my-package"
+name = "my-package-tomergabay"
 version = "0.1.0"
-description = ""
-authors = ["Tomer Gabay <tomergabay@Admins-MacBook-Pro.local>"]
+description = "Template for a professional (open source) Python package."
+authors = ["Tomer Gabay <tomergabay001@gmail.com>"]
 readme = "README.md"
 packages = [{include = "my_package", from = "src"}]
 
