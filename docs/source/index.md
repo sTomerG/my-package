@@ -10,7 +10,7 @@
 
 # The template for a professional Python Package
 
-In October 2022 I wrote [this](link) Medium article in which I explain step-by-step on how to create a professional Python Package. To make it extra easy for everyone I've also created [this](https://github.com/sTomerG/my-package) repository which can be used as a template.
+In October 2022 I wrote [this Medium article](https://medium.com/@tomergabay/9f66538ebc2) in which I explain step-by-step on how to create a professional Python Package. To make it extra easy for everyone I've also created [this](https://github.com/sTomerG/my-package) repository which can be used as a template. Still, to fully understand all components of this repository I strongly recommend reading the [article](https://medium.com/@tomergabay/9f66538ebc2).
 
 ## Contents
 
