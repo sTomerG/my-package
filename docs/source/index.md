@@ -49,7 +49,7 @@ To convert this package template to your own package please take the following s
 
 12. Rebuild the docs with `poetry run sphinx-autobuild docs/source docs/build/html`
 
-13. Edit in the top of the README the links
+13. Edit in the top of the README and *docs/source/index.md* the links
 
 ## Note
 
