@@ -1,3 +1,6 @@
+# Originaly from Juan Luis Cano Rodríguez
+# https://www.youtube.com/watch?v=qRSb299awB0&t=1700s
+#
 # Configuration file for the Sphinx documentation builder.
 #
 # For the full list of built-in configuration values, see the documentation:
