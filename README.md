@@ -36,7 +36,7 @@ To convert this package template to your own package please take the following s
 
 8. Change the top fields in [*docs/source/conf.py*](docs/source/conf.py), e.g. `project` to the same value as `name` in *pyproject.toml*. 
 
-9. Reinstall the package with `poetry install`
+9. Install the package with `poetry install --with dev` or use `pip install -e '.[dev]'`
 
 10.  Change the `my_package` part in  `from my_package.calc import` to the name of the folder you chose in step 6 in [*tests/test_calc/test_square.py*](tests/test_calc/test_square.py) and in [*docs/source/notebooks/usage.ipynb*](docs/source/notebooks/usage.ipynb).
 
